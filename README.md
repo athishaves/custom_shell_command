@@ -1,4 +1,4 @@
-# Custom Shell Command
+# Linux Custom Shell Command
 
 A shell command which creates a new .java file with pre-defined template
 
